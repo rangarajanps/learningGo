@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ToddMcLeod_Course/10_Documentation/exercise01/dog"
+	"github.com/rangarajanps/learningGo/exercise/dog"
 	"fmt"
 )
 
